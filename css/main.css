@@ -1986,7 +1986,11 @@ ul#category li a {
     padding: 0 12px;
 }
 
-
+.footerTop h3 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 /*End footer*/
 
 
@@ -2155,6 +2159,7 @@ ul#category li a {
 	.caption h1{font-size:40px;line-height: 40px;}
 	.caption p{margin-top:12px;}
 	.bigTitle img{width:14%;left: 43.2% ;}
+    .aboutTitle h1{line-height: 30px;}
 	.introBg{width:100%; height:48%;}
 	.innerInfo{margin-top:50px;}
 	.aboutProfile {margin-bottom:30px;margin-left:0;margin-right:0;}
